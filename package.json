@@ -1,0 +1,15 @@
+{
+  "name": "advance-javascript",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "foreach&_each.js",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
