@@ -74,7 +74,7 @@ const videoData = [
 ];
 
 //Filtering PRESENT suspects
-const _= require('underscore')
+const _= require('lodash')
 var arrayNames = _.filter(videoData,(val)=>{ 
     return val.present
 })
